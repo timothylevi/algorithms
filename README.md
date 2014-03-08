@@ -13,3 +13,4 @@ Practice of algorithms in Ruby and JavaScript. Adding slowly.
 
 ## JavaScript
 - isPalindrome.js
+- myMap.js
