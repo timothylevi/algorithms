@@ -14,6 +14,7 @@ Practice of algorithms in Ruby and JavaScript. Adding slowly.
 - folding_cipher.rb
 - uniq_subs.rb
 - max_sub_sum.rb
+- silly_years.rb
 
 ## JavaScript
 - isPalindrome.js
