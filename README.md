@@ -15,6 +15,7 @@ Practice of algorithms in Ruby and JavaScript. Adding slowly.
 - uniq_subs.rb
 - max_sub_sum.rb
 - silly_years.rb
+- matrix_region_sum.rb
 
 ## JavaScript
 - isPalindrome.js
