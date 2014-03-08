@@ -10,6 +10,7 @@ Practice of algorithms in Ruby and JavaScript. Adding slowly.
 - sum_from_file.rb
 - sum_recursive.rb
 - validIP.rb
+- activeRecord.rb
 
 ## JavaScript
 - isPalindrome.js
