@@ -12,6 +12,7 @@ Practice of algorithms in Ruby and JavaScript. Adding slowly.
 - validIP.rb
 - activeRecord.rb
 - folding_cipher.rb
+- uniq_subs.rb
 
 ## JavaScript
 - isPalindrome.js
