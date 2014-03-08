@@ -17,6 +17,7 @@ Practice of algorithms in Ruby and JavaScript. Adding slowly.
 - silly_years.rb
 - matrix_region_sum.rb
 - merge_sort.rb
+- binary_search.rb
 
 ## JavaScript
 - isPalindrome.js
