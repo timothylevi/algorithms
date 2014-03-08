@@ -11,6 +11,7 @@ Practice of algorithms in Ruby and JavaScript. Adding slowly.
 - sum_recursive.rb
 - validIP.rb
 - activeRecord.rb
+- folding_cipher.rb
 
 ## JavaScript
 - isPalindrome.js
